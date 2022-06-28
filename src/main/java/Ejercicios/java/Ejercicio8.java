@@ -10,6 +10,7 @@ public class Ejercicio8 {
         Scanner scan=new Scanner(System.in);
         String diaSemana;
 
+        //Procesado y mostrado de datos
         System.out.println("Seleccione entre: Lunes, Martes, Miércoles, Jueves, Viernes, Sábado o Domingo");
         diaSemana = scan.nextLine();
         switch (diaSemana) {

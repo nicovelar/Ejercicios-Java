@@ -10,6 +10,7 @@ public class Ejercicio9 {
         String texto;
         String e;
 
+        //Procesado y mostrado de datos
         texto = "La sonrisa sera la mejor arma contra la tristeza";
         e = texto.replace("a","e");
         System.out.println(e + ", toda acción acarrea consecuencias.");
