@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab67392-f298-4e79-be63-c2c285b19d12" name="Changes" comment="Ejercicio 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicios/java/Ejercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicios/java/Ejercicio11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicios/java/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicios/java/Ejercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicios/java/Ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicios/java/Ejercicio9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ejercicio10">
+  <component name="RunManager" selected="Application.Ejercicio11">
     <configuration name="Ejercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicios.java.Ejercicio10" />
       <module name="Ejercicios-Java.main" />
@@ -72,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.java.Ejercicio6" />
+    <configuration name="Ejercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.java.Ejercicio11" />
       <module name="Ejercicios-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio11" />
         <item itemvalue="Application.Ejercicio10" />
         <item itemvalue="Application.Ejercicio9" />
         <item itemvalue="Application.Ejercicio8" />
         <item itemvalue="Application.Ejercicio7" />
-        <item itemvalue="Application.Ejercicio6" />
       </list>
     </recent_temporary>
   </component>
