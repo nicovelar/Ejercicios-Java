@@ -1,12 +1,23 @@
 package Ejercicios.java;
 
+import java.util.Scanner;
+
 public class Ejercicio1 {
 
     public static void main(String[] args) {
 
-        Integer numero1 = 3;
-        Integer numero2 = 3;
+        Scanner scan=new Scanner(System.in);
+        Integer numero1;
+        Integer numero2;
         String logMessage;
+
+        //ejercicio 2
+        System.out.println("Por favor a continuación ingrese dos números");
+        System.out.println("Ingrese el primer número");
+        numero1 = scan.nextInt();
+        System.out.println("Ingrese el segundo número");
+        numero2 = scan.nextInt();
+
 
         if (numero1 > numero2) {
             logMessage = numero1 + " es mayor que " + numero2;
