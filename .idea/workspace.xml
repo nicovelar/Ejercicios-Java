@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ab67392-f298-4e79-be63-c2c285b19d12" name="Changes" comment="Ejercicio 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicios/java/Ejercicio12.java" afterDir="false" />
+    <list default="true" id="3ab67392-f298-4e79-be63-c2c285b19d12" name="Changes" comment="Ejercicio 12">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicios/java/Ejercicio13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,20 +45,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "module",
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;module&quot;,
+      &quot;directory&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Ejercicio12">
+}</component>
+  <component name="RunManager" selected="Application.Ejercicio13">
     <configuration name="Ejercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicios.java.Ejercicio10" />
       <module name="Ejercicios-Java.main" />
@@ -96,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.java.Ejercicio8" />
+    <configuration name="Ejercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.java.Ejercicio13" />
       <module name="Ejercicios-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio13" />
         <item itemvalue="Application.Ejercicio12" />
         <item itemvalue="Application.Ejercicio11" />
         <item itemvalue="Application.Ejercicio10" />
         <item itemvalue="Application.Ejercicio9" />
-        <item itemvalue="Application.Ejercicio8" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +168,7 @@
     <MESSAGE value="Ejercicio 1" />
     <MESSAGE value="Ejercicio 2" />
     <MESSAGE value="Ejercicio 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 3" />
+    <MESSAGE value="Ejercicio 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 12" />
   </component>
 </project>
