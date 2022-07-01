@@ -20,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -56,7 +57,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Ejercicio17.Ejecutable">
+  <component name="RunManager" selected="Application.Ejercicio18.Ejecutable">
     <configuration name="Ejecutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio16.Ejecutable" />
       <module name="Ejercicios-Java.main" />
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicios.java.Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.java.Calculadora" />
+    <configuration name="Ejercicio18.Ejecutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio18.Ejecutable" />
       <module name="Ejercicios-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicio16.*" />
+          <option name="PATTERN" value="Ejercicio18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicios.java.Ejercicio15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.java.Ejercicio15" />
+    <configuration name="Ejercicios.java.Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.java.Calculadora" />
       <module name="Ejercicios-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio18.Ejecutable" />
         <item itemvalue="Application.Ejercicio17.Ejecutable" />
         <item itemvalue="Application.Ejecutable" />
         <item itemvalue="Application.Ejercicios.java.manin" />
         <item itemvalue="Application.Ejercicios.java.Calculadora" />
-        <item itemvalue="Application.Ejercicios.java.Ejercicio15" />
       </list>
     </recent_temporary>
   </component>

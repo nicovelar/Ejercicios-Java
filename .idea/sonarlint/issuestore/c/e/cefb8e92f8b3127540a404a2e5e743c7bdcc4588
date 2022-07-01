@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹€ºÚ
+p	java:S116"\Rename this field "NUMERO_TEMPORADAS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÃ½d
+i	java:S116"TRename this field "ENTREGADO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÙ‘
+6
+java:S1170"!Make this final field static too.(ÚÃ½d
+7
+java:S1170"!Make this final field static too.(ØÙ‘
+l
+java:S1845"VRename field "entregado" to prevent any misunderstanding/clash with field "ENTREGADO".(¿ÏÂ”

@@ -1,0 +1,23 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š“ñl
+k	java:S116	"VRename this field "PRECIO_BASE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥š¼—
+r	java:S116
+"XRename this field "COLOR_DEFAULT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éüœšøÿÿÿÿ
+y	java:S116"dRename this field "CONSUMO_ELECTRICO_DEFAULT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÕ†ñ
+n	java:S116"TRename this field "PESO_BASE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õîþ™ùÿÿÿÿ
+7
+java:S1170	"!Make this final field static too.(¥š¼—
+<
+java:S1170
+"!Make this final field static too.(éüœšøÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(ïÕ†ñ
+<
+java:S1170"!Make this final field static too.(õîþ™ùÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(“ê½©
+E
+java:S1197"*Move the array designators [] to the type.(´õ½Œýÿÿÿÿ
+<	java:S131W""Add a default case to this switch.(«¤¼üÿÿÿÿ
+G
+java:S1068",Remove this unused "consumos" private field.(´õ½Œýÿÿÿÿ
